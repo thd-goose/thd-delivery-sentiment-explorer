@@ -1,0 +1,5 @@
+{
+  "name": "Delivery Sentiment Geo-Explorer",
+  "description": "A Zillow-inspired dashboard to visualize delivery logistics performance and customer sentiment on an interactive map. Features dynamic sentiment word clouds, carrier analysis, and hotspot drill-downs.",
+  "requestFramePermissions": []
+}
